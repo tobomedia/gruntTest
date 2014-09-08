@@ -1,0 +1,17 @@
+{
+  "name": "SampleGrunt",
+  "version": "0.1.0",
+  "author": "Tobin Saunders",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-cachebuster": "^0.1.5",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-cssc": "*",
+    "grunt-htmlhint": "*",
+    "matchdep": "*"
+  }
+}
